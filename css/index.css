@@ -35,9 +35,6 @@ aside a:focus {
   outline: none;
 }
 
-#hiddentitle{
-	display:none;
-}
 
 article {
 	background-color: #f4f1eb;
